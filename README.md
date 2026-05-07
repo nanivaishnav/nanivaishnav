@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nanivaishnav](https://github.com/nanivaishnav)
 
-- 💬 Ask me about **Data Scientist & Generative AI Engineer with over 2 years of experience in LLMs, NLP, and Predictive Analytics, skilled in developing AI-driven document intelligence systems and leveraging Python and cloud services for scalable solutions.**
+- 💬 Ask me about 
 
 - 📫 How to reach me **nanivaishnav45@gmail.com**
 
