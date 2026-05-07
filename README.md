@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nanivaishnav45@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/bf5t0spw1m53](https://flowcv.com/resume/bf5t0spw1m53)
+- 📄 Know about my experiences
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
