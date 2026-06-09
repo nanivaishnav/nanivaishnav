@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nanivaishnav" alt="nanivaishnav" /></a> </p>
 
-- 🔭 I’m currently working on **Generative AI–Powered Financial Report Summarization & Insight Extraction System**
+- 🔭 I’m currently working on **AI-Powered Credit Risk Analytics & Decision Intelligence Platform**
 
 - 🌱 I’m currently learning **Advanced Machine learning, Python, Deep learning, Nlp**
 
